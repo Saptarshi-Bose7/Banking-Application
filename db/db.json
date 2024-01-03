@@ -1,0 +1,18 @@
+{
+  "details": [
+    {
+      "Name": "Adarsh",
+      "CreditOrDebit": "Credit",
+      "id": "0.44876996155448934",
+      "Date": "2024-01-03T10:58:34.630Z",
+      "Amount": 30
+    },
+    {
+      "Name": "Diyasini",
+      "CreditOrDebit": "Debit",
+      "id": "0.9108916492299437",
+      "Date": "2024-01-03T10:59:16.514Z",
+      "Amount": -10
+    }
+  ]
+}

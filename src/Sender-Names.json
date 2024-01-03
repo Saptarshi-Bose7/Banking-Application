@@ -1,0 +1,42 @@
+{
+    "senders":[
+        {
+            
+            "Name":"Saptarshi",
+           
+    "CreditOrDebit": "Credit"
+        },
+        {
+           
+            "Name":"Anish",
+           
+    "CreditOrDebit": "Credit"
+        },
+        {
+            
+            "Name":"Diyasini",
+         
+    "CreditOrDebit": "Credit"
+        },
+        {
+           
+            "Name":"Adarsh",
+           
+    "CreditOrDebit": "Credit"
+        },
+        {
+           
+            "Name":"Bibhudyuti",
+         
+    "CreditOrDebit": "Credit"
+    
+        },
+        {
+          
+            "Name":"Adrita",
+            
+    "CreditOrDebit": "Credit"
+    
+        }
+    ]
+}

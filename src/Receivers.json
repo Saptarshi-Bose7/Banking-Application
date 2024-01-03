@@ -1,0 +1,48 @@
+{
+    "Receivers":[
+        {
+            
+            "Name":"Saptarshi",
+            
+            
+    "CreditOrDebit": "Debit"
+        },
+        {
+            
+            "Name":"Anish",
+           
+           
+    "CreditOrDebit": "Debit"
+        },
+        {
+            
+            "Name":"Diyasini",
+           
+          
+    "CreditOrDebit": "Debit"
+        },
+        {
+           
+            "Name":"Adarsh",
+            
+            
+    "CreditOrDebit": "Debit"
+        },
+        {
+            
+            "Name":"Bibhudyuti",
+            
+           
+    "CreditOrDebit": "Debit"
+    
+        },
+        {
+           
+            "Name":"Adrita",
+            
+            
+    "CreditOrDebit": "Debit"
+    
+        }
+    ]
+}

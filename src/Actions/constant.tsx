@@ -1,0 +1,7 @@
+export const CREDIT="CREDIT"
+export const DEBIT="DEBIT"
+export const FETCH="FETCH"
+export const SET_DATA="SET-DATA"
+export const POSTDATA="POSTDATA"
+export const SET_POST_DATA="SET_POST_DATA"
+export const DEFAULT="DEFAULT"
